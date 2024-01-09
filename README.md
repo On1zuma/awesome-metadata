@@ -6,6 +6,7 @@ Covering fundamental elements like character encoding, viewport configuration, a
 - [Essential HTML Metadata Tags](#essential-html-metadata-tags)
 - [Additional HTML Metadata Tags](#additional-html-metadata-tags)
 - [Open Graph (OG) and Twitter Card Tags](#open-graph-og-and-twitter-card-tags)
+- [Advanced HTML Metadata Tags](#advanced-html-metadata-tags)
 
 ## Essential HTML Metadata Tags
 Key HTML metadata tags for optimal webpage structure, accessibility, and SEO. A concise guide for essential web development knowledge.
